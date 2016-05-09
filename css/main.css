@@ -1,0 +1,102 @@
+
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+
+body{
+
+    width: 100%;
+    height:100%;
+
+}
+
+#nav{
+    background: white;
+}
+#nav a{
+    color: black;
+}
+#headerPar{
+    height: 700px;
+}
+#headerPar img{
+
+}
+#headerPar .mobile{
+    display: none;
+}
+
+
+/* HEADER CSS */
+
+
+/*
+      HEADER OPTION ONE
+
+#header{
+    height:300px;
+    background: inherit;
+
+}
+#button1{
+    width: 45%;
+    height: 300px;
+    margin: 0 auto;
+
+    background-image: url(../img/owl-headerLogo.png);
+    background-size: 700px 300px;
+    background-repeat: no-repeat;
+}
+
+*/
+
+
+#about{
+    height: 800px;
+}
+#knowledge{
+    height:700px;
+}
+
+#creative{
+    height:700px;
+}
+
+#products{
+    height:700px;
+}
+#test1 p{
+      float: left;
+}
+#test2 p{
+    float: left;
+}
+#test3 p{
+    float: left;
+
+}
+#test4 p{
+    float: left;
+}
+
+
+
+/*********** PARALEX ABOUT SLOGAN */
+
+
+#sloganAbout{
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+
+.demo-wrapper {
+    padding: 30px
+}
+
+h1 {
+    font-size: 42px;
+    margin: 0;
+    font-weight: 300;
+    margin-bottom: 30px;
+    letter-spacing: -1px;
+    text-align: center
+}
